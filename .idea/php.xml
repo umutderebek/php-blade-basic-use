@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/vendor/windwalker/registry" />
+      <path value="$PROJECT_DIR$/vendor/windwalker/data" />
+      <path value="$PROJECT_DIR$/vendor/windwalker/renderer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/filesystem" />
+    </include_path>
+  </component>
+</project>
